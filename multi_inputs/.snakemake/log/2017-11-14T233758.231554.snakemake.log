@@ -1,0 +1,4 @@
+MissingInputException in line 24 of /home/l0o0/Workspace/snakemake_tutorial/multi_inputs/snakefile3:
+Missing input files for rule quantify_genes:
+fastq/test3.R1.fastq.gz
+fastq/test3.R2.fastq.gz

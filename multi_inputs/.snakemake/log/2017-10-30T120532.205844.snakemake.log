@@ -1,0 +1,3 @@
+WildcardError in line 1 of /home/l0o0/Workspace/snakemake_tutorial/multi_inputs/snakefile3:
+Wildcards in input files cannot be determined from output files:
+'sample'

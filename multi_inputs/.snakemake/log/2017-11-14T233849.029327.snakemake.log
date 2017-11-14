@@ -1,0 +1,3 @@
+NameError in line 24 of /home/l0o0/Workspace/snakemake_tutorial/multi_inputs/snakefile3:
+name 'FASTQ_DIR' is not defined
+  File "/home/l0o0/Workspace/snakemake_tutorial/multi_inputs/snakefile3", line 24, in <module>
